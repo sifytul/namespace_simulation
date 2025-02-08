@@ -1,5 +1,6 @@
 # Linux Network Namespace Simulation Assignment
 
+![namespace_simulation](https://github.com/user-attachments/assets/af9711e5-c575-4138-8fa0-bd343ea818d7)
 
 
 ## Overview
